@@ -50,7 +50,7 @@ window = rg.TurtleWindow()
 
 blue_turtle = rg.SimpleTurtle('turtle')
 blue_turtle.pen = rg.Pen('midnight blue', 3)
-blue_turtle.speed = 10  # Fast
+blue_turtle.speed = 2  # Fast
 
 # The first square will be 300 x 300 pixels:
 size = 300
